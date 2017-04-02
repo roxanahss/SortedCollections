@@ -103,4 +103,8 @@ public class StockList {
 
         return s + "Total stock value " + totalCost;
     }
+    
+    public String lolo(){
+    	return "GIGI has left the building";
+    }
 }
