@@ -105,6 +105,6 @@ public class StockList {
     }
     
     public String lolo(){
-    	return "GIGI has left the building";
+    	return "GIGI is on fire..";
     }
 }
